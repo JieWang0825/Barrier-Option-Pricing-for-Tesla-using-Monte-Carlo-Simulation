@@ -33,6 +33,20 @@ The model:
 | 2 | 700 / 220 | 11.18 / 22.47 |
 | 3 | 440 / 380 | 0.01 / 0.01 |
 
+---
+
+## 🔬 Visualization
+
+| call/put | Graph |
+|--------|---------------|
+| call-1 | ![call-1](call-big.png) |
+| call-2 | ![call-2](call-option.png) |
+| call-3 | ![call-3](call-small.png) |
+| put-1 | ![put-1](put-big.png) |
+| put-2 | ![put-2](put-option.png) |
+| put-3 | ![put-3](put-small.png) |
+---
+
 **Insights:**
 - Option value decreases as the barrier approaches the strike price.  
 - Put options are more valuable, reflecting Tesla’s higher downside risk.
